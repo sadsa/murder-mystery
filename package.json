@@ -1,0 +1,35 @@
+{
+  "name": "murder-mystery",
+  "version": "1.0.0",
+  "description": "Player guide for murder mystery game",
+  "main": "index.js",
+  "repository": "https://github.com/sadsa/murder-mystery.git",
+  "author": "Joshua Biddick <joshua.biddick@cucumber.co.nz>",
+  "license": "MIT",
+  "scripts": {
+    "start": ""
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.0.1",
+    "eslint": "^4.10.0",
+    "eslint-plugin-react": "^7.4.0",
+    "jest": "^21.2.1"
+  },
+  "dependencies": {
+    "axios": "^0.17.0",
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "nodemon": "^1.12.1",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0",
+    "react-router": "^4.2.0",
+    "react-test-renderer": "^16.0.0",
+    "webpack": "^3.8.1"
+  }  
+}
